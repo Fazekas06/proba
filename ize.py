@@ -1,0 +1,1 @@
+x=int(input("ad meg az a oldalt"))
