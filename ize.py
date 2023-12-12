@@ -6,4 +6,4 @@ x=input("kerület, vagy, területet kell kiszámolni?")
 if x==("terület"):
     print("a terület:",eredmeny2)
 elif x==("kerület"):
-    print("a kerület:")
+    print("a kerület:",eredmeny)
